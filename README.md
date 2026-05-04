@@ -24,4 +24,15 @@ A responsive web-based calculator built using HTML, CSS, and JavaScript that sup
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
+calculatorApp/
+│── index.html
+│── style.css
+│── script.js
+
+---
+
+##  How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/bidishas175-ux/calculatorApp
